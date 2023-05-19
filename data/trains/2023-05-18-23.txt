@@ -1,0 +1,12 @@
+23:01, Malvern,  1 LATE
+23:05, Warminster,  2 LATE
+23:09, Temple U,  3 LATE
+23:35, Doylestown, ON TIME
+23:40, Trenton, ON TIME
+23:57, West Trenton, ON TIME
+23:01, Malvern,  1 LATE
+23:05, Warminster,  2 LATE
+23:09, Temple U,  3 LATE
+23:35, Doylestown, ON TIME
+23:40, Trenton, ON TIME
+23:57, West Trenton, ON TIME
