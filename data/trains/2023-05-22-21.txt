@@ -1,0 +1,16 @@
+21:01, 30th St, ON TIME
+21:05, Warminster, ON TIME
+21:05, Warminster, ON TIME
+21:09, Lansdale,  2 LATE
+21:21, West Trenton,  4 LATE
+21:25, Airport, ON TIME
+21:28, Temple U, ON TIME
+21:35, 30th St, ON TIME
+21:35, Fox Chase, ON TIME
+21:40, Trenton, ON TIME
+21:48, Chestnut H West, ON TIME
+21:51, Thorndale, ON TIME
+21:55, Airport, ON TIME
+21:56, Chestnut H East, ON TIME
+21:57, Norristown, ON TIME
+21:59, Wawa, ON TIME

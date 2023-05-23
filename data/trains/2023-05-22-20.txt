@@ -1,0 +1,15 @@
+20:40, Trenton,  4 LATE
+20:40, Trenton,  4 LATE
+20:48, Chestnut H West,  3 LATE
+20:48, Chestnut H West,  3 LATE
+20:50, Temple U, ON TIME
+20:50, Temple U, ON TIME
+20:53, Chestnut H East, ON TIME
+20:53, Chestnut H East, ON TIME
+20:55, Airport,  1 LATE
+20:55, Airport,  1 LATE
+20:56, Malvern, 10 LATE
+20:56, Malvern,  7 LATE
+20:57, Norristown, ON TIME
+20:57, Norristown, ON TIME
+20:59, Wawa,  1 LATE
