@@ -1,0 +1,12 @@
+10:03, Chestnut H East,  5 LATE
+10:09, Norristown,  3 LATE
+10:23, Chestnut H West, ON TIME
+10:23, Chestnut H West, ON TIME
+10:33, Trenton, ON TIME
+10:35, Glenside, ON TIME
+10:35, 30th St, ON TIME
+10:45, Lansdale, 13 LATE
+10:45, Malvern,  1 LATE
+10:50, Wawa, ON TIME
+10:55, Airport, ON TIME
+10:57, Fox Chase, ON TIME
